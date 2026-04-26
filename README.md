@@ -1,31 +1,20 @@
 # Python CLI Client Manager
 
-Simple command-line application to manage client data.
+A simple command-line application to manage client data using Python.
 
 ## Features
-- Add client
-- List clients
-- Remove client
-- Data persistence using JSON
+- Add new clients
+- List all clients
+- Remove existing clients
+- Data persistence using JSON (clients are saved between sessions)
 
 ## Technologies
 - Python
 - JSON
 
-## How to run
+## How to Run
 
 ```bash
 python3 main.py
 
-Project Purpose
-
-This project was built as part of my learning process to understand:
-
-CRUD operations
-Data persistence
-Basic program structure
-Author
-
-Fernando Fogaça
-
-
+This project was built as part of my learning process to understand: CRUD operations Data persistence Basic program structure Author Fernando Fogaça

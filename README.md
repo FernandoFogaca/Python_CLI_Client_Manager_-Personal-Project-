@@ -12,9 +12,11 @@ A simple command-line application to manage client data using Python.
 - Python
 - JSON
 
+This project was built as part of my learning process to understand: CRUD operations Data persistence Basic program structure Author Fernando Fogaça.
+
+
 ## How to Run
 
 ```bash
 python3 main.py
 
-This project was built as part of my learning process to understand: CRUD operations Data persistence Basic program structure Author Fernando Fogaça
